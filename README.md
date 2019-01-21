@@ -10,7 +10,7 @@ and anomaly detection code.
 
 Before attempting execution, ensure you have the following edge file available.
 
-   * all-1.tsv: A file containing one edge per line for all input graphs in the dataset. The edge file used for our experiments is available at [test-data][1]. Our dataset is also from streamspot[sbustreamspot-data][2], but to accommodate our algorithm, we changed it a bit without changing the data composition.
+   * all-1.tsv: A file containing one edge per line for all input graphs in the dataset. The edge file used for our experiments is available at [test-data][1]. Our dataset is also from streamspot [sbustreamspot-data][2], but to accommodate our algorithm, we changed it a bit without changing the data composition.
 
 
 Compilation and execution has been tested with GCC 5.2.0 .

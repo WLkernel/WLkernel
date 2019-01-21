@@ -26,5 +26,5 @@ use dataset in StreamSpot for evaluation:
 cat all-1.tsv|./WLkernel --edges=all-1.tsv --chunk-length=10
 ```
 
-[1]: https://github.com/sbustreamspot/sbustreamspot-data
+[1]: https://github.com/WLkernel/testdata.git
 [2]: https://github.com/sbustreamspot/sbustreamspot-data

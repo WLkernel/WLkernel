@@ -1,5 +1,5 @@
 # WL kernel
-Thanks to Emaad A. Manzoor's hard work, our code is rewritten based on his work：
+Our code is rewritten based on below project：
 
 <img src="http://www3.cs.stonybrook.edu/~emanzoor/streamspot/img/streamspot-logo.jpg" height="150" align="right"/>
 
